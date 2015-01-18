@@ -164,7 +164,7 @@ void newGame(char** dict){
 	time_t current = 0;
 
 	// Loop while time has not run out:
-	while(current < 30){
+	while(current < 45){
 		pickWord(dict, word);					// Get random word
 		printf("Name: %s. Points: %d. Time: %ld.\n", name, points, current);
 		printf("'%s'\n", word);
