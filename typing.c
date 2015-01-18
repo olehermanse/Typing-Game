@@ -222,7 +222,9 @@ int main(int argc, char** argv){
 	printf("by olehermanse(http://www.github.com/olehermanse)\n");
 
 	char** dict = loadDictionary();
+
 	while(1)
 		mainMenu(dict);
+
 	return 0;
 }

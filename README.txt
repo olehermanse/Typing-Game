@@ -6,4 +6,4 @@ Terminal Typing Game in C
 - One game lasts 45 seconds
 - High scores are saved (highscores.txt)
 - dictionary.txt contains almost 5000 words, generated from public domain books
-- Source code is completely free and open source. See typing.c for license
+- Source code is completely free & open source. See typing.c for license
