@@ -1,4 +1,4 @@
-Project name: Terminal Typing Game in C
+Project name: Terminal Typing Game in C<br>
 Date: 2015-01-19
 Author: olehermanse ( http://www.github.com/olehermanse )
 
