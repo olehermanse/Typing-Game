@@ -217,12 +217,17 @@ void mainMenu(char** dict){
 
 // Main function prints a message, loads a dictionary and loops main menu indefinitely:
 int main(int argc, char** argv){
+	// Disable buffering on stdout:
 	setbuf(stdout, NULL);
+
+	// Print welcome message:
 	printf("\n\nTyping game in C\n");
 	printf("by olehermanse(http://www.github.com/olehermanse)\n");
 
+	// Load dictionary from file:
 	char** dict = loadDictionary();
 
+	// Loop main menu indefinitely:
 	while(1)
 		mainMenu(dict);
 
