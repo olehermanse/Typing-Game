@@ -1,8 +1,8 @@
 Project name: Terminal Typing Game in C<br>
-Date: 2015-01-19
+Date: 2015-01-19<br>
 Author: olehermanse ( http://www.github.com/olehermanse )
 
-World's most lazy license:
+World's most lazy license:<br>
 This piece of software is completely free and open source.
 It is meant for educational purposes and provided "as is"
 with no expressed or implied warranty of any kind. You are
